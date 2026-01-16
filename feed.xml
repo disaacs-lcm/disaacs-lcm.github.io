@@ -8,5 +8,17 @@
 		<language>en-us</language>
 		<atom:link href="https://disaacs-lcm.github.io/feed.xml" rel="self"
 			type="application/rss+xml" />
+
+		<item>
+			<title>Vibing to fast fast fast Techno</title>
+			<pubDate>Fri, 16 Jan 2026 04:27:29 GMT</pubDate>
+			<guid>c1c70480-9a37-4bb7-a897-63c15735ade2</guid>
+			<link>
+				https://disaacs-lcm.github.io/blog/vibing_to_fast_fast_fast_techno.html</link>
+			<description><![CDATA[ 
+		<h1>Vibing to fast fast fast Techno</h1>
+		<p>What more needs to be said?</p>
+		]]></description>
+		</item>
 	</channel>
 </rss>
